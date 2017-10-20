@@ -1,0 +1,14 @@
+c:\users\abraham\documents\visual studio 2015\Projects\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\StringCalculatorTry11.dll
+c:\users\abraham\documents\visual studio 2015\Projects\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\StringCalculatorTry11.pdb
+c:\users\abraham\documents\visual studio 2015\Projects\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\nunit.framework.dll
+c:\users\abraham\documents\visual studio 2015\Projects\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\nunit.framework.xml
+c:\users\abraham\documents\visual studio 2015\Projects\StringCalculatorTry11\StringCalculatorTry11\obj\Debug\StringCalculatorTry11.csprojResolveAssemblyReference.cache
+c:\users\abraham\documents\visual studio 2015\Projects\StringCalculatorTry11\StringCalculatorTry11\obj\Debug\StringCalculatorTry11.dll
+c:\users\abraham\documents\visual studio 2015\Projects\StringCalculatorTry11\StringCalculatorTry11\obj\Debug\StringCalculatorTry11.pdb
+C:\Users\abraham\Desktop\Abraham String Calculator\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\StringCalculatorTry11.dll
+C:\Users\abraham\Desktop\Abraham String Calculator\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\StringCalculatorTry11.pdb
+C:\Users\abraham\Desktop\Abraham String Calculator\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\nunit.framework.dll
+C:\Users\abraham\Desktop\Abraham String Calculator\StringCalculatorTry11\StringCalculatorTry11\bin\Debug\nunit.framework.xml
+C:\Users\abraham\Desktop\Abraham String Calculator\StringCalculatorTry11\StringCalculatorTry11\obj\Debug\StringCalculatorTry11.csprojResolveAssemblyReference.cache
+C:\Users\abraham\Desktop\Abraham String Calculator\StringCalculatorTry11\StringCalculatorTry11\obj\Debug\StringCalculatorTry11.dll
+C:\Users\abraham\Desktop\Abraham String Calculator\StringCalculatorTry11\StringCalculatorTry11\obj\Debug\StringCalculatorTry11.pdb
